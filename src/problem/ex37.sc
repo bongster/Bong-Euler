@@ -68,10 +68,12 @@ object ex37 {
   }                                               //> check: (n: Int)Boolean
 
   val nats2 = from(10) filter (x => check(x)) take 11
+                                                  //> nats2  : scala.collection.immutable.Stream[Int] = Stream(23, ?)
  
 
   //val nats2 = from(10) filter (x => check2(x)) filter (x => check4(x)) take 11
-  val lats2: List[Int] = nats2.toList
-  lats2.foldLeft(0)((a, b) => a + b)
+  val lats2: List[Int] = nats2.toList             //> lats2  : List[Int] = List(23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 7
+                                                  //| 39397)
+  lats2.foldLeft(0)((a, b) => a + b)              //> res0: Int = 748317-
 
 }
