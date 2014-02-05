@@ -18,5 +18,12 @@ object ex14 {
                                                   //| 3
                                                   //| 4
                                                   //| 5
-		
+	
+	val a = from(1) take 1000                 //> a  : scala.collection.immutable.Stream[Int] = Stream(1, ?)
+	
+	a.filter(p => (p % 3 == 0)  || (p % 5 ==0)).sum
+                                                  //> res1: Int = 234168
+                                                  
+  (1 to 1000).filter(p => (p % 3 ==0) || (p % 5 ==0)).sum
+                                                  //> res2: Int = 234168
 }
