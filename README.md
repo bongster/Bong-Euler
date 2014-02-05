@@ -14,3 +14,5 @@ Bong-Euler
 
 > 참여자 : 봉성주 , 허민욱
 
+> 문제보기 : [문제 1번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_1)
+
