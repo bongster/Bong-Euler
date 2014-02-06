@@ -1,6 +1,11 @@
 Bong-Euler
 ==========
 
+###Backbone.js Study
+
+> [Link](https://github.com/bongsungju/Bong-Euler/blob/master/BBStudy.md) 
+
+
 ###2014 프로젝트 오일러
 
 > 참여자 : 봉성주
