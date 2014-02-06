@@ -1,7 +1,7 @@
 Bong-Euler
 ==========
 
-###Backbone.js Study
+###Backbone.js Study REVIEW
 
 > [Link](https://github.com/bongsungju/Bong-Euler/blob/master/BBStudy.md) 
 
