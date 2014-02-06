@@ -9,7 +9,8 @@ Backbone Study
 
 -
 
-##1. 1주차 (2/5,2/6)
+##1. 1주차 (2/5,2/6) - 
+####진행 중
 
 > Backbone.js 시작 전 에 MVC 패턴의 의미를 배움
 
@@ -21,7 +22,8 @@ Backbone Study
 
 -
 
-##1. 2주차 (2/3 - 2/7)
+##1. 2주차 (2/10) - 
+####예정
 
 > Backbone.js Basic 을 통해 Backbone 기본 구성 공부
 
