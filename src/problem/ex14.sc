@@ -23,7 +23,11 @@ object ex14 {
 	
 	a.filter(p => (p % 3 == 0)  || (p % 5 ==0)).sum
                                                   //> res1: Int = 234168
+   
+   2.toBinaryString                               //> res2: String = 10
+  ~2                                              //> res3: Int = -3
+  //(1 to 1000).filter(p => (p % 3 ==0) || (p % 5 ==0)).sum
+                                                  ~7
+                                                  //> res4: Int = -8
                                                   
-  (1 to 1000).filter(p => (p % 3 ==0) || (p % 5 ==0)).sum
-                                                  //> res2: Int = 234168
 }
