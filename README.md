@@ -25,5 +25,5 @@ Bong-Euler
 
 > 참여자 : 봉성주 , 허민욱
 
-> 문제보기 : [문제 2번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_2)
+> 문제보기 : [문제 2번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_2) , [문제 3번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_3)
 
