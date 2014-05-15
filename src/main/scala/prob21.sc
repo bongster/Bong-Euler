@@ -17,7 +17,6 @@ object prob21 {
       } else divisors(n, m + 1, l)
 
     }
-
     a = divisors(n);
     if (a > maxNum)
       b = 0
