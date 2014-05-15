@@ -13,23 +13,16 @@ Bong-Euler
 > 오일러 페이지 [Link](http://euler.synap.co.kr/)
 
 
-> 방법 : src > {{문제폴더}} > 원하시는 언어로 폴더 만들기 ex: scala > {{자기 아이디}} > 소스코드 넣기
+> 방법 : src > 소스코드 넣기
 
-####Week1 14.02.05 - 14.02.09
+> 지금까지 푼 문제 : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
 
-> 참여자 : 봉성주 , 허민욱
+> 2014 년에는 오일러 프로젝트 문제 전부 풀기 !!!
 
-> 문제보기 : [문제 1번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_1)
+####Week1 14.05.19 - 14.05.23
 
-####Week2 14.02.17 - 14.02.21
+> 참여자 : 봉성주 
 
-> 참여자 : 봉성주 , 허민욱
+> 문제보기 : [문제 19번](http://euler.synap.co.kr/prob_detail.php?id=19) [문제 22번](http://euler.synap.co.kr/prob_detail.php?id=12) [문제 23번](http://euler.synap.co.kr/prob_detail.php?id=23) 
 
-> 문제보기 : [문제 2번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_2) , [문제 3번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_3)
-
-
-####Week3 14.02.24 - 14.02.28
-
-> 참여자 : 봉성주, 허민욱
-
-> 문제보기 : [문제 4번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_4), [문제 5번](https://github.com/bongsungju/Bong-Euler/tree/master/src/prob_5)
+> 해결 : 
