@@ -26,3 +26,13 @@ Bong-Euler
 > 문제보기 : [문제 19번](http://euler.synap.co.kr/prob_detail.php?id=19) [문제 22번](http://euler.synap.co.kr/prob_detail.php?id=12) [문제 23번](http://euler.synap.co.kr/prob_detail.php?id=23) 
 
 > 해결 : 
+
+####Week1 14.05.26 - 14.05.30
+
+> 참여자 : 봉성주 
+
+> 문제보기 : [문제 24번](http://euler.synap.co.kr/prob_detail.php?id=24)
+
+> 해결 : 24
+
+
