@@ -48,5 +48,6 @@ Bong-Euler
 > 참여자 : 봉성주
 
 > 문제보기 : [문제 29번](http://euler.synap.co.kr/prob_detail.php?id=29) [문제 30번](http://euler.synap.co.kr/prob_detail.php?id=30)
+ [문제 31번](http://euler.synap.co.kr/prob_detail.php?id=31)
 
-> 해결 :  29, 30
+> 해결 :  29, 30 , 31
