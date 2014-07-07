@@ -42,3 +42,11 @@ Bong-Euler
 > 문제보기 : [문제 22번](http://euler.synap.co.kr/prob_detail.php?id=22)
 
 > 해결 :  22
+
+####Weeck3 14.07.07 - 14.07.11
+
+> 참여자 : 봉성주
+
+> 문제보기 : [문제 29번](http://euler.synap.co.kr/prob_detail.php?id=29) [문제 30번](http://euler.synap.co.kr/prob_detail.php?id=30)
+
+> 해결 :  29, 30
