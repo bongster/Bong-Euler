@@ -33,7 +33,7 @@ Bong-Euler
 
 > 문제보기 : [문제 24번](http://euler.synap.co.kr/prob_detail.php?id=24)
 
-> 해결 : 24
+> 해결 :[24](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob24.sc) 
 
 ####Weeck3 14.07.01 - 14.07.04
 
@@ -41,7 +41,7 @@ Bong-Euler
 
 > 문제보기 : [문제 22번](http://euler.synap.co.kr/prob_detail.php?id=22)
 
-> 해결 :  22
+> 해결 : [22](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob22.sc)
 
 ####Weeck3 14.07.07 - 14.07.11
 
