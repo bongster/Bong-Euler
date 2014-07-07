@@ -6,39 +6,39 @@ Bong-Euler
 > [Link](https://github.com/bongsungju/Bong-Euler/blob/master/BBStudy.md) 
 
 
-###2014 í”„ë¡œì íŠ¸ ì˜¤ì¼ëŸ¬
+###2014 ÇÁ·ÎÁ§Æ® ¿ÀÀÏ·¯
 
-> ì°¸ì—¬ìž : ë´‰ì„±ì£¼
+> Âü¿©ÀÚ : ºÀ¼ºÁÖ
 
-> ì˜¤ì¼ëŸ¬ íŽ˜ì´ì§€ [Link](http://euler.synap.co.kr/)
+> ¿ÀÀÏ·¯ ÆäÀÌÁö [Link](http://euler.synap.co.kr/)
 
 
-> ë°©ë²• : src > ì†ŒìŠ¤ì½”ë“œ ë„£ê¸°
+> ¹æ¹ý : src > ¼Ò½ºÄÚµå ³Ö±â
 
-> ì§€ê¸ˆê¹Œì§€ í‘¼ ë¬¸ì œ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
+> Áö±Ý±îÁö Ç¬ ¹®Á¦ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
 
-> 2014 ë…„ì—ëŠ” ì˜¤ì¼ëŸ¬ í”„ë¡œì íŠ¸ ë¬¸ì œ ì „ë¶€ í’€ê¸° !!!
+> 2014 ³â¿¡´Â ¿ÀÀÏ·¯ ÇÁ·ÎÁ§Æ® ¹®Á¦ ÀüºÎ Ç®±â !!!
 
 ####Week1 14.05.19 - 14.05.23
 
-> ì°¸ì—¬ìž : ë´‰ì„±ì£¼ 
+> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
 
-> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 19ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=19) [ë¬¸ì œ 22ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=12) [ë¬¸ì œ 23ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=23) 
+> ¹®Á¦º¸±â : [¹®Á¦ 19¹ø](http://euler.synap.co.kr/prob_detail.php?id=19) [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=12) [¹®Á¦ 23¹ø](http://euler.synap.co.kr/prob_detail.php?id=23) 
 
-> í•´ê²° : 
+> ÇØ°á : 
 
 ####Week2 14.05.26 - 14.05.30
 
-> ì°¸ì—¬ìž : ë´‰ì„±ì£¼ 
+> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
 
-> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 24ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=24)
+> ¹®Á¦º¸±â : [¹®Á¦ 24¹ø](http://euler.synap.co.kr/prob_detail.php?id=24)
 
-> í•´ê²° : 24
+> ÇØ°á : 24
 
 ####Weeck3 14.07.01 - 14.07.04
 
-> ì°¸ì—¬ìž : ë´‰ì„±ì£¼
+> Âü¿©ÀÚ : ºÀ¼ºÁÖ
 
-> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 22ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=22)
+> ¹®Á¦º¸±â : [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=22)
 
-> í•´ê²° :  22
+> ÇØ°á :  22
