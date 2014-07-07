@@ -50,4 +50,6 @@ Bong-Euler
 > 문제보기 : [문제 29번](http://euler.synap.co.kr/prob_detail.php?id=29) [문제 30번](http://euler.synap.co.kr/prob_detail.php?id=30)
  [문제 31번](http://euler.synap.co.kr/prob_detail.php?id=31)
 
-> 해결 :  29, 30 , 31
+> 해결 : [29](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob31.sc)
+,[30](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob30.sc)
+,[31](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob31.sc)
