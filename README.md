@@ -6,51 +6,55 @@ Bong-Euler
 > [Link](https://github.com/bongsungju/Bong-Euler/blob/master/BBStudy.md) 
 
 
-###2014 ÇÁ·ÎÁ§Æ® ¿ÀÀÏ·¯
+###2014 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½Ï·ï¿½
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-> ¿ÀÀÏ·¯ ÆäÀÌÁö [Link](http://euler.synap.co.kr/)
+> ï¿½ï¿½ï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ [Link](http://euler.synap.co.kr/)
 
 
-> ¹æ¹ý : src > ¼Ò½ºÄÚµå ³Ö±â
+> ï¿½ï¿½ï¿½ï¿½ : src > ï¿½Ò½ï¿½ï¿½Úµï¿½ ï¿½Ö±ï¿½
 
-> Áö±Ý±îÁö Ç¬ ¹®Á¦ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
+> ï¿½ï¿½ï¿½Ý±ï¿½ï¿½ï¿½ Ç¬ ï¿½ï¿½ï¿½ï¿½ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
 
-> 2014 ³â¿¡´Â ¿ÀÀÏ·¯ ÇÁ·ÎÁ§Æ® ¹®Á¦ ÀüºÎ Ç®±â !!!
+> 2014 ï¿½â¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½Ï·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½ !!!
 
 ####Week1 14.05.19 - 14.05.23
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
 
-> ¹®Á¦º¸±â : [¹®Á¦ 19¹ø](http://euler.synap.co.kr/prob_detail.php?id=19) [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=12) [¹®Á¦ 23¹ø](http://euler.synap.co.kr/prob_detail.php?id=23) 
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : [ï¿½ï¿½ï¿½ï¿½ 19ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=19) [ï¿½ï¿½ï¿½ï¿½ 22ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=12) [ï¿½ï¿½ï¿½ï¿½ 23ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=23) 
 
-> ÇØ°á : 
+> ï¿½Ø°ï¿½ : 
 
 ####Week2 14.05.26 - 14.05.30
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
 
-> ¹®Á¦º¸±â : [¹®Á¦ 24¹ø](http://euler.synap.co.kr/prob_detail.php?id=24)
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : [ï¿½ï¿½ï¿½ï¿½ 24ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=24)
 
-> ÇØ°á :[24](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob24.sc) 
+> ï¿½Ø°ï¿½ :[24](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob24.sc) 
 
 ####Weeck3 14.07.01 - 14.07.04
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-> ¹®Á¦º¸±â : [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=22)
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : [ï¿½ï¿½ï¿½ï¿½ 22ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=22)
 
-> ÇØ°á : [22](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob22.sc)
+> ï¿½Ø°ï¿½ : [22](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob22.sc)
 
 ####Weeck3 14.07.07 - 14.07.11
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-> ¹®Á¦º¸±â : [¹®Á¦ 28¹ø](http://euler.synap.co.kr/prob_detail.php?id=28) [¹®Á¦ 29¹ø](http://euler.synap.co.kr/prob_detail.php?id=29) [¹®Á¦ 30¹ø](http://euler.synap.co.kr/prob_detail.php?id=30)
- [¹®Á¦ 31¹ø](http://euler.synap.co.kr/prob_detail.php?id=31)
+> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : [ï¿½ï¿½ï¿½ï¿½ 28ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=28) [ï¿½ï¿½ï¿½ï¿½ 29ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=29) [ï¿½ï¿½ï¿½ï¿½ 30ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=30)
+ [ï¿½ï¿½ï¿½ï¿½ 31ï¿½ï¿½](http://euler.synap.co.kr/prob_detail.php?id=31)
 
-> ÇØ°á :[28](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob28.sc)
+> ï¿½Ø°ï¿½ :[28](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob28.sc)
 ,[29](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob29.sc)
 ,[30](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob30.sc)
 ,[31](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob31.sc)
+
+####Weeck4 14.07.21 - 14.07.25
+> [testAlgo](https://gist.github.com/bongster/47b69d9e7b6bbf738f0b)
+
