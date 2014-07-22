@@ -6,51 +6,51 @@ Bong-Euler
 > [Link](https://github.com/bongsungju/Bong-Euler/blob/master/BBStudy.md) 
 
 
-###2014 ÇÁ·ÎÁ§Æ® ¿ÀÀÏ·¯
+###2014 í”„ë¡œì íŠ¸ ì˜¤ì¼ëŸ¬
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ì°¸ì—¬ìž : ë´‰ì„±ì£¼
 
-> ¿ÀÀÏ·¯ ÆäÀÌÁö [Link](http://euler.synap.co.kr/)
+> ì˜¤ì¼ëŸ¬ íŽ˜ì´ì§€ [Link](http://euler.synap.co.kr/)
 
 
-> ¹æ¹ý : src > ¼Ò½ºÄÚµå ³Ö±â
+> ë°©ë²• : src > ì†ŒìŠ¤ì½”ë“œ ë„£ê¸°
 
-> Áö±Ý±îÁö Ç¬ ¹®Á¦ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
+> ì§€ê¸ˆê¹Œì§€ í‘¼ ë¬¸ì œ : 1 ~ 19 , 20 ,21 , 25 , 36 ~ 40
 
-> 2014 ³â¿¡´Â ¿ÀÀÏ·¯ ÇÁ·ÎÁ§Æ® ¹®Á¦ ÀüºÎ Ç®±â !!!
+> 2014 ë…„ì—ëŠ” ì˜¤ì¼ëŸ¬ í”„ë¡œì íŠ¸ ë¬¸ì œ ì „ë¶€ í’€ê¸° !!!
 
 ####Week1 14.05.19 - 14.05.23
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
+> ì°¸ì—¬ìž : ë´‰ì„±ì£¼ 
 
-> ¹®Á¦º¸±â : [¹®Á¦ 19¹ø](http://euler.synap.co.kr/prob_detail.php?id=19) [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=12) [¹®Á¦ 23¹ø](http://euler.synap.co.kr/prob_detail.php?id=23) 
+> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 19ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=19) [ë¬¸ì œ 22ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=12) [ë¬¸ì œ 23ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=23) 
 
-> ÇØ°á : 
+> í•´ê²° : 
 
 ####Week2 14.05.26 - 14.05.30
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ 
+> ì°¸ì—¬ìž : ë´‰ì„±ì£¼ 
 
-> ¹®Á¦º¸±â : [¹®Á¦ 24¹ø](http://euler.synap.co.kr/prob_detail.php?id=24)
+> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 24ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=24)
 
-> ÇØ°á :[24](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob24.sc) 
+> í•´ê²° :[24](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob24.sc) 
 
 ####Weeck3 14.07.01 - 14.07.04
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ì°¸ì—¬ìž : ë´‰ì„±ì£¼
 
-> ¹®Á¦º¸±â : [¹®Á¦ 22¹ø](http://euler.synap.co.kr/prob_detail.php?id=22)
+> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 22ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=22)
 
-> ÇØ°á : [22](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob22.sc)
+> í•´ê²° : [22](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob22.sc)
 
 ####Weeck3 14.07.07 - 14.07.11
 
-> Âü¿©ÀÚ : ºÀ¼ºÁÖ
+> ì°¸ì—¬ìž : ë´‰ì„±ì£¼
 
-> ¹®Á¦º¸±â : [¹®Á¦ 28¹ø](http://euler.synap.co.kr/prob_detail.php?id=28) [¹®Á¦ 29¹ø](http://euler.synap.co.kr/prob_detail.php?id=29) [¹®Á¦ 30¹ø](http://euler.synap.co.kr/prob_detail.php?id=30)
- [¹®Á¦ 31¹ø](http://euler.synap.co.kr/prob_detail.php?id=31)
+> ë¬¸ì œë³´ê¸° : [ë¬¸ì œ 28ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=28) [ë¬¸ì œ 29ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=29) [ë¬¸ì œ 30ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=30)
+ [ë¬¸ì œ 31ë²ˆ](http://euler.synap.co.kr/prob_detail.php?id=31)
 
-> ÇØ°á :[28](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob28.sc)
+> í•´ê²° :[28](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob28.sc)
 ,[29](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob29.sc)
 ,[30](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob30.sc)
 ,[31](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob31.sc)
