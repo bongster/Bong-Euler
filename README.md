@@ -54,3 +54,11 @@ Bong-Euler
 ,[29](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob29.sc)
 ,[30](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob30.sc)
 ,[31](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob31.sc)
+
+####Weeck?? 14.10.13 - 14.07.17
+
+> 참여자 : 봉성주
+
+> 문제보기 : [문제 42번](http://euler.synap.co.kr/prob_detail.php?id=42) 
+
+> 해결 :[42](https://github.com/bongster/Bong-Euler/blob/master/src/main/scala/prob42.scala)
